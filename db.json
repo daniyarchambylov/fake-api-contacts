@@ -488,26 +488,5 @@
 		"lastName": "Tanek",
 		"email": "Praesent@turpisIncondimentum.org",
 		"phone": "0845 46 41"
-	},
-	{
-		"id": 71,
-		"firstName": "Ronan",
-		"lastName": "Thomas",
-		"email": "dictum.placerat.augue@vitaeerat.com",
-		"phone": "0965 566 5448"
-	},
-	{
-		"id": 72,
-		"firstName": "Daniel",
-		"lastName": "Odysseus",
-		"email": "in.felis@pellentesqueeget.ca",
-		"phone": "(016977) 5603"
-	},
-	{
-		"id": 73,
-		"firstName": "Oscar",
-		"lastName": "Jeremy",
-		"email": "Fusce.dolor@ac.co.uk",
-		"phone": "0398 811 1018"
 	}
 ]

@@ -453,40 +453,5 @@
 		"lastName": "Luke",
 		"email": "lacinia.mattis@lobortisrisusIn.co.uk",
 		"phone": "070 2719 9691"
-	},
-	{
-		"id": 66,
-		"firstName": "Kareem",
-		"lastName": "Demetrius",
-		"email": "Class.aptent.taciti@iaculis.ca",
-		"phone": "0956 434 0251"
-	},
-	{
-		"id": 67,
-		"firstName": "Timothy",
-		"lastName": "Dexter",
-		"email": "Nullam.lobortis.quam@DonecegestasDuis.org",
-		"phone": "(0131) 357 8434"
-	},
-	{
-		"id": 68,
-		"firstName": "Dante",
-		"lastName": "Gannon",
-		"email": "magna.sed@ametorci.org",
-		"phone": "0500 542639"
-	},
-	{
-		"id": 69,
-		"firstName": "Amery",
-		"lastName": "Solomon",
-		"email": "eget@placeratvelitQuisque.ca",
-		"phone": "0845 46 46"
-	},
-	{
-		"id": 70,
-		"firstName": "Dustin",
-		"lastName": "Tanek",
-		"email": "Praesent@turpisIncondimentum.org",
-		"phone": "0845 46 41"
 	}
 ]
